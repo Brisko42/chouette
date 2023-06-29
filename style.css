@@ -112,11 +112,11 @@ a:hover {
 .d-bloc .icon-rounded,
 .d-bloc .icon-semi-rounded-a,
 .d-bloc .icon-semi-rounded-b {
-    border-color: rgba(9, 94, 159, 0.625);
+    border-color: rgba(255, 255, 255, .9);
 }
 
 .d-bloc .divider-h span {
-    border-color: rgba(75, 166, 30, 0.2);
+    border-color: rgba(255, 255, 255, .2);
 }
 
 .d-bloc .a-btn,
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(138, 37, 37, 0.6);
+    color: rgba(255, 255, 255, .6);
 }
 
 .d-bloc .a-btn:hover,
@@ -150,11 +150,11 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgb(153, 168, 40);
+    color: rgba(255, 255, 255, 1);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
-    background: rgb(24, 127, 45);
+    background: rgba(255, 255, 255, 1);
 }
 
 .d-bloc .btn-wire,
